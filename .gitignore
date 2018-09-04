@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 /target/
+=======
+*.class
+*.log
+>>>>>>> e2cb078a9d72b2fd8e1ba278285993efde568417
